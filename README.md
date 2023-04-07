@@ -70,3 +70,12 @@ bivariant
 ![b14](https://user-images.githubusercontent.com/118680410/230582036-defa4337-66b8-4ce1-afbc-1bb6a6bb70f9.png)
 ![b12](https://user-images.githubusercontent.com/118680410/230582228-e51232cc-d21f-4fc9-9e30-7daa7c093734.png)
 ![b13](https://user-images.githubusercontent.com/118680410/230582160-576b8054-752e-45a8-bc4a-db96b523759c.png)
+
+multivariant
+
+MEAN
+![m15](https://user-images.githubusercontent.com/118680410/230584528-4317d0e1-e922-4a16-9b93-94f32522760e.png)
+![m14](https://user-images.githubusercontent.com/118680410/230584534-8a792b7a-0daf-47c8-a373-eaf150d82c18.png)
+![m13](https://user-images.githubusercontent.com/118680410/230584538-4e30c590-df4d-445c-9e45-378fb461e4a7.png)
+![m11](https://user-images.githubusercontent.com/118680410/230585107-91528282-a006-4d99-bd46-58501aaa9265.png)
+![m12](https://user-images.githubusercontent.com/118680410/230585219-af546196-070e-41c4-9e7a-201c5c6e6dc1.png)
